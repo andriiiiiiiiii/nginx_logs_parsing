@@ -1,2 +1,2 @@
-user-agents==2.2.0
-pandas==1.5.0
+user-agents
+pandas

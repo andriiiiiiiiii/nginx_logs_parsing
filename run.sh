@@ -1,6 +1,6 @@
 #!/bin/bash
 
-python3 ngins_logs_parser.py
+python3 nginx_logs_parser.py
 
 current_date=$(date +%Y-%m-%d)
 git add nginx_logs_parsed_$current_date.csv

@@ -4,7 +4,7 @@ import pandas as pd
 from datetime import datetime
 
 
-with open('nginx.log') as f:
+with open('./nginx.log') as f:
     log_file = f.readlines()
 
 regexp_patterns = {

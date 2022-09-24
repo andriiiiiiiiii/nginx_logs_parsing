@@ -1,12 +1,11 @@
 # nginx_logs_parsing
-___
-Python script for parsing nginx logs with exporting to csv. Rename your logs file to 
+Python script for parsing nginx logs with exporting to csv with separator '@'. Rename your logs file to nginx.log
 
 ## Usage
 
 
 ### Installation
-___
+
 **For Debian/Ubuntu**
 
 `git clone https://github.com/andriiiiiiiiii/nginx_logs_parsing.git`
@@ -16,5 +15,4 @@ ___
 `pip3 install -r requirements.txt`
 
 ### Run
-___
 `./run.sh`
